@@ -1,0 +1,13 @@
+jupyterlab
+notebook
+ipykernel
+numpy
+pandas
+matplotlib
+Pillow
+imageio
+imageio-ffmpeg
+plotly
+opencv-python
+ultralytics
+gdown
