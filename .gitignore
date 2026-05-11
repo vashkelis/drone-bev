@@ -8,3 +8,7 @@ __pycache__/
 .virtual_documents/
 
 .DS_Store
+
+Paper
+local_uav_bev_project/
+
