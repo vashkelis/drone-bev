@@ -35,36 +35,36 @@ Road plane:      24 m × 90 m
 
 The mobile-camera calibration is defined from visible road geometry. Red points are active road-plane correspondences; cyan points are visual checks.
 
-![Metric road calibration](local_uav_bev_project/work/demo_materials/metric_road_rectangle_on_image.png)
+![Metric road calibration](docs/images/metric_road_rectangle_on_image.png)
 
 ### Original, BEV, and 3D Cuboid Demo
 
 The strongest demo view is the synchronized triptych: original UAV frame, metric BEV view, and dynamic 3D cuboid scene.
 
-![Original BEV 3D triptych](local_uav_bev_project/work/demo_materials/demo_original_bev_3d_triptych_thumbnail.png)
+![Original BEV 3D triptych](docs/images/demo_original_bev_3d_triptych_thumbnail.png)
 
 Video outputs:
 
-- [Original vs 3D cuboids MP4](local_uav_bev_project/work/demo_materials/demo_original_vs_3d_cuboids.mp4)
-- [Original + BEV + 3D triptych MP4](local_uav_bev_project/work/demo_materials/demo_original_bev_3d_triptych.mp4)
+- [Original vs 3D cuboids MP4](docs/videos/demo_original_vs_3d_cuboids.mp4)
+- [Original + BEV + 3D triptych MP4](docs/videos/demo_original_bev_3d_triptych.mp4)
 
 ### Metric BEV Tracks
 
 Vehicle tracks are projected from oblique image coordinates into a local metric road-plane coordinate system.
 
-![Metric BEV tracks](local_uav_bev_project/work/demo_materials/metric_bev_tracks.png)
+![Metric BEV tracks](docs/images/metric_bev_tracks.png)
 
 ### Dynamic 3D Cuboids
 
 The 3D output is a lightweight traffic-state representation, not a photorealistic reconstruction.
 
-![Metric 3D cuboids preview](local_uav_bev_project/work/demo_materials/metric_3d_cuboids_preview.png)
+![Metric 3D cuboids preview](docs/images/metric_3d_cuboids_preview.png)
 
 Animation previews:
 
-![Metric BEV animation](local_uav_bev_project/work/demo_materials/metric_bev_animation.gif)
+![Metric BEV animation](docs/images/metric_bev_animation.gif)
 
-![Metric 3D cuboids animation](local_uav_bev_project/work/demo_materials/metric_3d_cuboids_animation.gif)
+![Metric 3D cuboids animation](docs/images/metric_3d_cuboids_animation.gif)
 
 ---
 
