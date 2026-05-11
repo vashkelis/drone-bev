@@ -602,7 +602,7 @@ The current M1401 result already produces calibrated BEV tracks, metric cuboids,
 
 ---
 
-## Suggested Next Steps
+## Planned Next Steps
 
 1. Finalize Notebook 02B calibration using lane-line correspondences.
 2. Update Notebook 03A to consume `metric_homography_calibration.json` directly.
